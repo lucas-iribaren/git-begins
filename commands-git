@@ -6,3 +6,5 @@ git push origin master ** Pour envoyer sur github les modifications **
 git pull origin master	** Pour regarder les modifications faites sur github **
 git branch	** Pour la créer une branche ** 
 git switch -c add-create-branch-command ** Pour créer une branche et switch directement en une commande **
+
+:)
