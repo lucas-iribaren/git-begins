@@ -1,6 +1,8 @@
 git clone https://github.com/lucas-iribaren/repository
 
-git git add .
-git commit -m " ... "
-git push origin master
-git pull origin master
+git git add .  ** Pour ajouter tout les fichiers à l'envoi **
+git commit -m " ... " ** Pour créer le nom de la modification **
+git push origin master ** Pour envoyer sur github les modifications **
+git pull origin master	** Pour regarder les modifications faites sur github **
+git branch	** Pour la créer une branche ** 
+git switch -c add-create-branch-command ** Pour créer une branche et switch directement en une commande **
