@@ -2,5 +2,5 @@ git clone https://github.com/lucas-iribaren/repository
 
 git git add .
 git commit -m " ... "
-git push 
+git push origin master
 
